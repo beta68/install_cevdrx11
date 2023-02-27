@@ -1,4 +1,4 @@
-# install_cevdrx11 for Amlogic Devices
+# install_cevdrx11 for Amlogic devices
 
 Unzip the instatll-script, copy it to CoreElec /storage directory and execute it: `./install.sh`. The script will download an Ubuntu 20.04 image, extract the rootfs, update it and install missing packages required for VDR and X11. The package list is provided as a base64 encoded tar.bz2-payload within the script.
 
